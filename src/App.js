@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <nav>
-        <li>Home1</li>
+        <li>Home3</li>
       </nav>
 
     </>
