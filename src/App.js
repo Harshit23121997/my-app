@@ -4,9 +4,9 @@ function App() {
   return (
     <>
       <nav>
-        <li>Home</li>
+        <li>Home1</li>
       </nav>
-      
+
     </>
   );
 }
